@@ -1,5 +1,1 @@
-function createGreeting() {
-  return "Hi my name is Marco and sexy I'm 39 years old";
-}
-const greeting1 = createGreeting();
-console.log(greeting1);
+console.log("Hi, my name is Marco and I'm 34 year old");
